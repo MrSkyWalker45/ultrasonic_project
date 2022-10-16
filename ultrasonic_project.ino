@@ -1,4 +1,3 @@
-#define NOTE_C4 262
 #define NOTE_G3  196
 #define NOTE_A3  220
 #define NOTE_B3  247
